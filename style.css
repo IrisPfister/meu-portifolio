@@ -125,8 +125,8 @@ btn-project {
 
 .foto-perfil {
     border-radius: 50%;
-    width: 215px;
-    height: 200px;
+    width: 250px;
+    height: 300px;
     border: 4px solid #f8d9e1; 
     transition: transform 0.3s ease;
 }
